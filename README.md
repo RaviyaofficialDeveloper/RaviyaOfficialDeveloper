@@ -17,6 +17,8 @@
 - Web app development
 - Real-time databases & backend integration
 - Tap-to-Earn style gamification projects
+###
+
 </td>
 <td width="50%" align="center">
 
@@ -29,6 +31,10 @@
 
 ---
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 ### 💡 About Me:
 - 📈 Passionate about **crypto, forex, and stock market trading**
 - 💻 Built my first PC from investment profits
@@ -36,8 +42,17 @@
 - 🎯 My dream is **financial freedom through business**, not a job!
 - 🌐 Created a website offering .txt lessons from 10+ programming languages — for free!
 - ❤️ Empowering others helps me grow stronger in my journey
+###
+
+</td>
+</tr>
+</table>
 
 ---
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 ### 🛠 Tech Stack:
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -49,21 +64,43 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+###
+
+</td>
+</tr>
+</table>
 
 ---
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 ### 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RaviyaOfficialDeveloper&show_icons=true&theme=radical" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=RaviyaOfficialDeveloper&theme=radical&hide_border=true" width="48%"/>
 </p>
 
+</td>
+</tr>
+</table>
+
 ---
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 ### 🔗 Connect with Me:
 - 🌐 Website: [Coming Soon!]
 - 📺 YouTube: [www.youtube.com/@CRYPTORAVIYAOFFICIAL]
 - 📧 Email: [gemingraviya476@gmail.com]
+###
+
+</td>
+</tr>
+</table>
 
 ---
 
