@@ -70,3 +70,4 @@
 ### ⚡ Fun Fact:
 > I started from 0 — my friends worked on the crypto market on their phones in their free time — now I work in the crypto/forex/stock market, and create complete websites and share all the knowledge with others. 💪
 
+<p align="center"><a href="https://buymeacoffee.com/raviyaofficialdeveloper"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="raviyaofficialdeveloper" /></a></p>
